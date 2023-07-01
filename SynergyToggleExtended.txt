@@ -1,0 +1,11 @@
+## Title: Synergy Toggle Extended
+## APIVersion: 101038
+## Version: 1.0
+## AddOnVerison: 1
+## Author: wnkbll
+## SavedVariables: STE_SV
+## DependsOn: LibAddonMenu-2.0
+## IsLibrary: False
+
+SynergyToggleExtended.lua
+SynergyToggleExtendedMenu.lua
